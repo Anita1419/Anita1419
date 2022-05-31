@@ -1,11 +1,17 @@
 # 💫About Me :
 ✔️I'm currently working on Flutter
+ <br/>
 💁🏻I'm currently learning more about the Flutter
+<br/>
 😎I'm looking for Flutter online job 
+<br/>
 📱Ask me about Flutter or any android related stuff 
+<br/>
 👉🏻How to reach me : Gmail : lohana.anita@gmail.com , 
 LinkedIn : https://www.linkedin.com/in/anita-lohana-565084168
+<br/>
 Pronouns : She/her
+<br/>
 🆓Fun Fact :  I spend my spare time on Indian serials 
 
 ## 🌐Socials
